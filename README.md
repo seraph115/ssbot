@@ -1,0 +1,2 @@
+# ssbot
+Service Monitor
