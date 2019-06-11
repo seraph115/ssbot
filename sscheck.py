@@ -7,7 +7,7 @@ import pytz
 from datetime import datetime
 
 
-slack = slackweb.Slack(url="https://hooks.slack.com/services/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")
+slack = slackweb.Slack(url="https://hooks.slack.com/services/XXX")
 
 sslocal_jp_start = "sslocal -c /etc/shadowsocks-config/shadowsocks-jp.json -d start"
 sslocal_uk_start = "sslocal -c /etc/shadowsocks-config/shadowsocks-uk.json -d start"
