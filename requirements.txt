@@ -1,0 +1,4 @@
+python-daemon==2.2.3
+slackweb==1.0.5
+tzlocal==1.5.1
+pytz==2019.1
